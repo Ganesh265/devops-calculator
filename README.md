@@ -1,2 +1,2 @@
-# devops-calculator
+# Git-calculator
  Git project
